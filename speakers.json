@@ -1,6 +1,6 @@
 {
     "voice-api": {
-        "url": "https://ttsapi.zwei.de.eu.org/tts",
+        "url": "https://ttsapi.nie.su/tts",
         "speakers": {
             "zh-CN-XiaoxiaoNeural": "晓晓",
             "zh-CN-YunxiNeural": "云希",
@@ -47,7 +47,7 @@
         }
     },
     "lobe-api": {
-        "url": "https://tts-api.deno.dev/v1/audio/speech",
+        "url": "https://narrow-horse-31.deno.dev/v1/audio/speech",
         "speakers": {
             "zh-HK-HiuGaaiNeural": "HiuGaai-中文（粤语）",
             "zh-HK-HiuMaanNeural": "HiuMaan-中文（粤语）",
