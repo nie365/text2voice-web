@@ -123,7 +123,7 @@ function makeRequest(url, isPreview, text) {
         url: url,
         method: 'GET',
         headers: {
-            'x-api-key': '@ak47'
+            'x-api-key': 'niege365'
         },
         xhrFields: {
             responseType: 'blob'
